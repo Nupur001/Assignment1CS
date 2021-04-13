@@ -1,0 +1,6 @@
+C:\Users\nupur.bisht\OneDrive - MarketXpander Services Private Limited\Desktop\daily practices\C#\1Assignment\1Assignment\bin\Debug\1Assignment.exe.config
+C:\Users\nupur.bisht\OneDrive - MarketXpander Services Private Limited\Desktop\daily practices\C#\1Assignment\1Assignment\bin\Debug\1Assignment.exe
+C:\Users\nupur.bisht\OneDrive - MarketXpander Services Private Limited\Desktop\daily practices\C#\1Assignment\1Assignment\bin\Debug\1Assignment.pdb
+C:\Users\nupur.bisht\OneDrive - MarketXpander Services Private Limited\Desktop\daily practices\C#\1Assignment\1Assignment\obj\Debug\1Assignment.csprojResolveAssemblyReference.cache
+C:\Users\nupur.bisht\OneDrive - MarketXpander Services Private Limited\Desktop\daily practices\C#\1Assignment\1Assignment\obj\Debug\1Assignment.exe
+C:\Users\nupur.bisht\OneDrive - MarketXpander Services Private Limited\Desktop\daily practices\C#\1Assignment\1Assignment\obj\Debug\1Assignment.pdb
